@@ -1,9 +1,0 @@
-setup.py
-synergy_decomposer/__init__.py
-synergy_decomposer/substeps.py
-synergy_decomposer/synergy_estimators.py
-synergy_decomposer/util.py
-synergy_decomposer.egg-info/PKG-INFO
-synergy_decomposer.egg-info/SOURCES.txt
-synergy_decomposer.egg-info/dependency_links.txt
-synergy_decomposer.egg-info/top_level.txt
